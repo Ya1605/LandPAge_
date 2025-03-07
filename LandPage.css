@@ -19,7 +19,7 @@ body{
 }
 
 .grey::before{
-    background-image:url("docs/image 4.png");
+    background-image:url("image 4.png");
     content: "";
     position: absolute;
     top: 0;
@@ -98,7 +98,7 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("docs/image 4.png");
+    background-image: url("image 4.png");
     background-size: cover; /* Масштабування */
     background-position: center; /* Центрування */
     background-repeat: no-repeat; /* Заборона повтору */
@@ -141,7 +141,7 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("docs/image 4.png");
+    background-image: url("image 4.png");
     background-size: cover; /* Масштабування */
     background-position: center; /* Центрування */
     background-repeat: no-repeat; /* Заборона повтору */
