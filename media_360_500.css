@@ -42,13 +42,16 @@
 
 .divOne{
     height: 50vh;
-    width: 65vw;
+    width: 55vw;
     margin: 30px;
 }
 
 .divOne img{
     height: 60px;
-    width: 100px;
+    width: 140px;
 }
+
+height: 70px;
+    width: 30px;
 
 }
