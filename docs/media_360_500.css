@@ -33,7 +33,10 @@
     display: flex;
     justify-content: center;
     box-shadow: none;
+    margin-top: 80px;
+
 }
+
 
 .bluOne{
     height: 200vh;
@@ -45,7 +48,7 @@
 
 .divOne{
     height: 50vh;
-    width: 55vw;
+    width: 45vw;
     margin: 30px;
 }
 
